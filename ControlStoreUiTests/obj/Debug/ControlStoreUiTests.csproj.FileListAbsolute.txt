@@ -1,0 +1,45 @@
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\chromedriver.exe
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.dll
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.pdb
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\nunit.framework.dll
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\WebDriver.dll
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\nunit.framework.xml
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\WebDriver.xml
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
+c:\users\ncstudent\documents\visual studio 2012\Projects\ControlStoreUiTests\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\chromedriver.exe
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.dll
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.pdb
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.dll
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\nunit.framework.dll
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\WebDriver.dll
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.pdb
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\nunit.framework.xml
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\bin\Debug\WebDriver.xml
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.csprojResolveAssemblyReference.cache
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
+E:\C# Automation\DAY6\ControlStoreUiTests\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\chromedriver.exe
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\nunit.framework.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\WebDriver.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\nunit.framework.xml
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\WebDriver.xml
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
+C:\Users\Mohammed\Desktop\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\chromedriver.exe
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.dll
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.pdb
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.dll
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\nunit.framework.dll
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\WebDriver.dll
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.pdb
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\nunit.framework.xml
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\bin\Debug\WebDriver.xml
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.csprojResolveAssemblyReference.cache
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
+D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb

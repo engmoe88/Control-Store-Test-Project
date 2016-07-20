@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlStoreUiTests", "ControlStoreUiTests\ControlStoreUiTests.csproj", "{A7395CD0-B033-48F9-A79B-0740C41B7372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlStoreTestCore", "ControlStoreTestCore\ControlStoreTestCore.csproj", "{B7B0751B-7327-4E27-9D62-6D4393241189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7395CD0-B033-48F9-A79B-0740C41B7372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7395CD0-B033-48F9-A79B-0740C41B7372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7395CD0-B033-48F9-A79B-0740C41B7372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7395CD0-B033-48F9-A79B-0740C41B7372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B0751B-7327-4E27-9D62-6D4393241189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B0751B-7327-4E27-9D62-6D4393241189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B0751B-7327-4E27-9D62-6D4393241189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B0751B-7327-4E27-9D62-6D4393241189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
