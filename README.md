@@ -5,6 +5,7 @@ I wrote the code for UI testing for three sections of the application:
 1- The CheckBox section.  
 2- The Radio Button Section.  
 3- The Combo Box Section.  
+4- The Fomrs section.  
 I wrote the code to test each control and ensure the proper functionality.  
 
 Frameworks and Libraries used:  
