@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CheckBoxTestCases.cs" />
     <Compile Include="ComboBoxTestCases.cs" />
+    <Compile Include="FormsTestCases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RadioButtonsTestCases.cs" />
   </ItemGroup>

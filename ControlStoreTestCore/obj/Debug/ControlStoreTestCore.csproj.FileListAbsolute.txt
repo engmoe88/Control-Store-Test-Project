@@ -17,3 +17,13 @@ D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreTestC
 D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreTestCore\bin\Debug\WebDriver.Support.xml
 D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.dll
 D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\chromedriver.exe
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\WebDriver.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\WebDriver.Support.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\WebDriver.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\bin\Debug\WebDriver.Support.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.pdb

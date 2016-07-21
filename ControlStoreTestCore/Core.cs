@@ -137,5 +137,33 @@ namespace ControlStoreTestCore
             _driver.Quit();
         }
         #endregion
+        #region Forms
+        private By _FormsButton = By.XPath("/html/body/nav/ul/li[4]/button");
+        private By _txtFirstName = By.Id("fName");
+        private By _txtLastName = By.Id("lName");
+        private By _txtEmail = By.Id("email");
+        private By _txtPassword = By.Id("pass");
+        private By _txtPhone = By.Id("phone");
+        private By _submitButtonOnForms = By.XPath("//*[@id=\"form1\"]/ul/li[6]/button");
+        private By _lblForms = By.Id("formLabel");
+        public void ClickFormsButton()
+        {
+            _driver.FindElement(_FormsButton).Click();
+        }
+        public void FillFirstName()
+        {_driver.FindElement(_txtFirstName).SendKeys("Test FN");}
+        public void FillLastName()
+        { _driver.FindElement(_txtLastName).SendKeys("Test LN"); }
+        public void FillEmail()
+        { _driver.FindElement(_txtEmail).SendKeys("Test Email"); }
+        public void FillPassword()
+        { _driver.FindElement(_txtPassword).SendKeys("Test Password"); }
+        public void FillPhone()
+        { _driver.FindElement(_txtPhone).SendKeys("Test Phone"); }
+        public void ClickSubmitButtonOnForms()
+        { _driver.FindElement(_submitButtonOnForms).Click(); }
+        public string GetLabelTextOfForms
+        { get { return _driver.FindElement(_lblForms).Text; } }
+        #endregion
     }
 }

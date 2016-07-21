@@ -43,3 +43,27 @@ D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTes
 D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.csprojResolveAssemblyReference.cache
 D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
 D:\BC-Classes\C#Automation\DAY6\ControlStoreUiTestsFrom School\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\chromedriver.exe
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\nunit.framework.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\WebDriver.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\nunit.framework.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\bin\Debug\WebDriver.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\chromedriver.exe
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\ControlStoreUiTests.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\nunit.framework.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\WebDriver.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\nunit.framework.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\bin\Debug\WebDriver.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreUiTests\obj\Debug\ControlStoreUiTests.pdb
