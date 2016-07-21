@@ -27,3 +27,13 @@ C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore
 C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.csprojResolveAssemblyReference.cache
 C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.dll
 C:\Users\Mohammed\Desktop\Control-Store-Test-Project-master\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\chromedriver.exe
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\ControlStoreTestCore.pdb
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\WebDriver.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\WebDriver.Support.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\WebDriver.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\bin\Debug\WebDriver.Support.xml
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.dll
+C:\Users\Mohammed\Desktop\Control-Store-Test-Project\ControlStoreTestCore\obj\Debug\ControlStoreTestCore.pdb
